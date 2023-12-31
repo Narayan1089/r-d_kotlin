@@ -1,2 +1,2 @@
 # r-d_kotlin
-Just 
+Just nomral repo for personal native android R&D and stuffs.
